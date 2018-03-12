@@ -1,0 +1,30 @@
+{
+		"name": "sra_metadata",
+		"version": "0.1.0",
+		"description": "Example Metadata Creation",
+		"main": "lib/index.js",
+		"bin": {
+				"csv_to_biosample": "bin/csv_to_biosample.js"
+		},
+		"repository": {
+				"type": "git",
+				"url": "git+https://github.com/qjhart/sra_metadata.git"
+		},
+		"scripts": {
+				"test": "mocha tests"
+		},
+		"keywords": [
+				"ncbi",
+				"metadata"
+		],
+		"author": "qjhart@ucdavis.edu",
+		"license": "MIT",
+		"dependencies": {
+				"csv-parse": "^2.0.4",
+				"csv-transform": "0.0.8",
+				"csv-transformer": "^1.1.1",
+				"lodash": "^4.17.5",
+				"xml-writer": "^1.7.0",
+				"yargs": "^11.0.0"
+		}
+}

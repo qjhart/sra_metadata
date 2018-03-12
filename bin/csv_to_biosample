@@ -1,0 +1,3 @@
+#! /usr/bin/env node
+
+require('../lib/csv_to_biosample');

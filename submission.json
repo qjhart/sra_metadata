@@ -1,0 +1,17 @@
+{
+		"SPUID" : {
+				"namespace":"University of California, Davis"
+		},
+		"submitter" : {
+				"user_name":"sra_ucdavis"
+		},
+		"organization": {
+				"name" : "University of California, Davis",
+				"contact" : { "email" : "sra@ucdavis.edu" },
+				"role":"owner",
+				"type":"institute"
+		},
+		"biosample" : {
+				"package":"Generic.1.0"
+		}
+}
