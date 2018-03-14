@@ -1,0 +1,12 @@
+# Emacs files
+.#*
+*#
+
+# node.js
+node_modules
+
+# mothur files
+mothur/*
+
+# Extraneous Docs
+docs/spreadsheets
